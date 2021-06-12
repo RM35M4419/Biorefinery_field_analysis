@@ -1,7 +1,7 @@
 # Biorefinery_field_analysis
 Analysis of tweets containing biorefinery keywords
 
-## 1. Biorefinery Twits analysis with Topic Modeling
+## 1. Biorefinery Tweets analysis with Topic Modeling
 
 ## Objective
 1. Make a general analysis with descriptive statistics of the Tweets that include the keyword "Biorefinery".
@@ -17,7 +17,6 @@ Analysis of tweets containing biorefinery keywords
  - Combine both DFs by user_id
  - Export final DF to disk for future use
 2. DESCRIPTIVE STATISTICS
- - Note: see [[20210405082339]]
  + Oldest tweet
  + Oldest tweet in relation to the network age
  + Proportions of discussions / retweets with sole tweets / unfavorited
