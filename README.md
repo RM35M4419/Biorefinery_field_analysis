@@ -8,6 +8,10 @@ Analysis of tweets containing biorefinery keywords
 2. Understand the use of sklearn and LDAvis libraries with actual useful data, and my own code.
 3. Compose a database from the scraped content for future use.
 
+## Motivation
+
+This project is part of a bigger study, analizing how institutional fields evolve.
+
 ## Algorithm
 1. DATA PREPARATION
  - Import & combine tweets json into a DF
